@@ -26,7 +26,7 @@ __credits__ = ["None"]
 __license__ = "None"
 __version__ = "1.0.0"
 __maintainer__ = "Colleville Tanguy"
-__email__ = "colleville.tanguy@gmail.coù"
+__email__ = "colleville.tanguy@gmail.com"
 __status__ = "Development"
 ########################################################Ma fenêtre Tkinter############################################
 
